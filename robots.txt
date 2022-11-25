@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:https://taktik88.dontkillmyapp.com/sitemap.xml
